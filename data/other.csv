@@ -106,7 +106,6 @@ name,source,gender,wikidata,type
 Λαζαριμου,,,,way
 Λασσανη,,,,way
 Λαχουρη,,,,way
-Λεβεντη,,,,way
 Λελουδα,,,,way
 Λεφεβρ,,,,way
 Ληθης,,,,way
@@ -118,7 +117,6 @@ name,source,gender,wikidata,type
 Μανωλιασας,,,,way
 Μαστραχα,,,,way
 Μελαμποδος,,,,way
-Μηλιωνη,,,,way
 Μινιακ,,,,way
 Μοισοδιακος,,,,way
 Μοραβας,,,,way
@@ -131,7 +129,6 @@ name,source,gender,wikidata,type
 Νεοφρονος,,,,way
 Ντουρμ,,,,way
 Ντυμον,,,,way
-Ξανθου,,,,way
 Οθρυος,,,,way
 Ορφεψς,,,,way
 Οσσης,,,,way
@@ -1148,6 +1145,7 @@ name,source,gender,wikidata,type
 Λέσβου,,,,way
 Λαέρτου,,,,way
 Λαμπελέτ,,,,way
+Λεβέντη,,,,way
 Λεμπέση,,,,way
 Λευκοθέας,,,,way
 Λεφέβρ,,,,way
@@ -1323,6 +1321,7 @@ name,source,gender,wikidata,type
 "Πέτρου Κόκκαλη",,,,way
 "Πέτρου Σαρόγλου",,,,way
 "Αγγέλου Σικελιανού",,,,way
+"Αλμπέρ Καμύ",,,,way
 "Ανδρέα Μουστοξύδη",,,,way
 "Ανδρέα Συγγρού",,,,way
 "Αριστοτέλους Κούζη",,,,way
@@ -3053,6 +3052,7 @@ name,source,gender,wikidata,type
 Μετεώρων,,,,way
 Μετώνος,,,,way
 Μηλεών,,,,way
+Μηλιώνη,,,,way
 Μηριώνου,,,,way
 Μητροδώρου,,,,way
 Μητρώου,,,,way

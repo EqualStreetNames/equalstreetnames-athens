@@ -83,7 +83,6 @@ name,source,gender,wikidata,type
 "Πλατεια Αγίου Παντελεήμονα Αχαρνών",,,,way
 "Δ. Φιλιου",,,,way
 "Κ. Νερη",,,,way
-"Πλ. Καναρη (Πλ. Κυψελης)",,,,way
 "Ν. Π. Δημητρακοπούλου",,,,way
 "Αρ. Βραΐλα",,,,way
 "Αγ. Χαραλάμπους",,,,way
@@ -92,7 +91,6 @@ name,source,gender,wikidata,type
 "Ι. Αθανασιάδου",,,,way
 "Μ. Γεωργαλλά",,,,way
 "Π. Κυριάκου",,,,way
-"Πλ. Κανάρη",,,,way
 "Στ. Λάιου",,,,way
 "Αγγ. Πυρρή",,,,way
 "Π. Μακρή",,,,way
@@ -106,6 +104,7 @@ name,source,gender,wikidata,type
 "Μ. Κόρακα",,,,way
 "Β. Παπαρηγοπούλου",,,,way
 "Ι. Σούτσου",,,,way
+"Κων. Παπαρρηγοπούλου",,,,way
 "Μ. Ψελλού",,,,way
 "Πλ. Αιγύπτου",,,,way
 "Σ. Τριανταφύλλου",,,,way
@@ -115,6 +114,8 @@ name,source,gender,wikidata,type
 "3ης Σεπτεμβρίου",,,,way
 "Bubble park",,,,relation
 "Galleria Κοραή",,,,way
+Plaza,,,,way
+Slope,,,,way
 "Τιμoλέοντος Φιλήμονος",,,,way
 Άγιδος,,,,way
 Άγρας,,,,way
@@ -2018,6 +2019,7 @@ name,source,gender,wikidata,type
 Τσίλλερ,,,,way
 Τσοτυλίου,,,,way
 Τυρταίου,,,,way
+Υακίνθου,,,,way
 Υβρίου,,,,way
 Υγείας,,,,way
 Υπατίας,,,,way
@@ -2885,7 +2887,6 @@ name,source,gender,wikidata,type
 Τυμφρηστού,,,,way
 Τύρας,,,,way
 Τύχης,,,,way
-Υακύνθου,,,,way
 Υμηττού,,,,way
 Φαιστού,,,,way
 Φερεκύδου,,,,way
